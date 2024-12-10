@@ -10,10 +10,13 @@
 
 ###
 
-🛠️ Blockchain wizard by day, bug hunter by night.
-🔗 Building decentralized dreams, one smart contract at a time 
-💡 Constantly in a tug-of-war with gas fees and scalability dilemmas.
-🔗 I break blockchains (on purpose) and stitch them back better—call it debugging with flair.
+<div>
+  <p>👾 Blockchain wizard by day, bug hunter by night.</p>
+  <p>🔗 Building decentralized dreams, one smart contract at a time .</p>
+  <p>💡 Constantly in a tug-of-war with gas fees and scalability dilemmas.</p>
+  <p>🚀  I break blockchains (on purpose) and stitch them back better—call it debugging with flair.</p>
+</div>
+
 ###
 
 <h2 align="center">My Stats</h2>
